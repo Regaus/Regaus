@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on: Suager 6
+- 🌱 I’m currently learning: discord.py, doing same things as usual
+- 👯 I’m looking to collaborate on: nothing *so far*
+- 🤔 I’m looking for help with: nothing **_so far_**
+- 💬 Ask me about: something, probably
+- 📫 How to reach me: ~~you don't~~ Discord: Regaus#1337
+- 😄 Pronouns: He, him
+- ⚡ Fun fact: There is no fun fact. *Or is there not?*
+
 <!--
 **Regaus/Regaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
