@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: Suager 6
-- 🌱 I’m currently learning: discord.py, doing same things as usual
+- 🔭 I’m currently working on: Something, probably
+- 🌱 I’m currently learning: Something, probably
 - 👯 I’m looking to collaborate on: nothing *so far*
 - 🤔 I’m looking for help with: nothing **_so far_**
-- 💬 Ask me about: something, probably
+- 💬 Ask me about: Something, probably
 - 📫 How to reach me: ~~you don't~~ Discord: Regaus#1337
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: There is no fun fact. *Or is there not?*
