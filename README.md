@@ -2,12 +2,12 @@
 
 - 🔭 I’m currently working on: Something, probably
 - 🌱 I’m currently learning: Something, probably
-- 👯 I’m looking to collaborate on: nothing *so far*
-- 🤔 I’m looking for help with: nothing **_so far_**
+- 👯 I’m looking to collaborate on: nothing
+- 🤔 I’m looking for help with: nothing
 - 💬 Ask me about: Something, probably
-- 📫 How to reach me: ~~you don't~~ Discord: Regaus#1337
-- 😄 Pronouns: He, him
-- ⚡ Fun fact: There is no fun fact. *Or is there not?*
+- 📫 How to reach me: ~~why would you want to~~ Discord: Regaus#1337
+- 😄 Pronouns: he/him/his/it/its
+- ⚡ Fun fact: There is no fun fact.
 
 <!--
 **Regaus/Regaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
