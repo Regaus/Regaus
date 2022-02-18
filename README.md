@@ -1,25 +1,12 @@
-### Hi there 👋
+<!-- **Regaus/Regaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on: Something, probably
+### Welcome to my page, whatever reason you're here...
+
+- 🔭 I’m currently working on: Suager and Kargadia
 - 🌱 I’m currently learning: Something, probably
-- 👯 I’m looking to collaborate on: nothing
-- 🤔 I’m looking for help with: nothing
-- 💬 Ask me about: Something, probably
-- 📫 How to reach me: ~~why would you want to~~ Discord: Regaus#1337
-- 😄 Pronouns: he/him/his/it/its
-- ⚡ Fun fact: There is no fun fact.
-
-<!--
-**Regaus/Regaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 👯 I’m looking to collaborate on: nothing -->
+<!-- - 🤔 I’m looking for help with: nothing -->
+<!-- - 💬 Ask me about: Something, probably -->
+- 📫 How to reach me: Discord: Regaus#1337
+<!-- - 😄 Pronouns: he/him -->
+- ⚡ Fun fact: No fun allowed.
